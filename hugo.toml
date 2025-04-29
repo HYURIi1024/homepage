@@ -3,5 +3,6 @@ languageCode = 'en-us'
 title = 'HYURIi server'
 theme = 'PaperMod'
 publishDir = "docs"
-relativeURLs = true
-canonifyURLs = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
