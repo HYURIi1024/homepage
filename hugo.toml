@@ -3,6 +3,3 @@ languageCode = 'en-us'
 title = 'HYURIi server'
 theme = 'PaperMod'
 publishDir = "docs"
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
