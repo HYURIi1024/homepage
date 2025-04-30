@@ -1,5 +1,22 @@
 baseURL = 'https://hyurii1024.github.io/homepage/'
 languageCode = 'en-us'
-title = 'HYURIi server'
+title = 'HYURIi no homepage'
 theme = 'PaperMod'
 publishDir = "docs"
+[params]
+  customCSS = ["css/custom.css"]
+[params.profileMode]
+  enabled = true
+  title = "ヒュリー/HYURIi"
+  subtitle = "イラストとBlender練習中です"
+  imageUrl = "images/teacaticon.png"  # 画像ファイルは static/images に置く
+  imageWidth = 160              # 表示サイズ（px）
+  imageHeight = 160
+  imageTitle = "ヒュリーのアイコン"
+
+[[params.socialIcons]]
+name = "pixiv"
+url = "https://www.pixiv.net/users/64404057"
+[[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/sakenikomi"
