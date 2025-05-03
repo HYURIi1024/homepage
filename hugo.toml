@@ -3,6 +3,14 @@ languageCode = 'en-us'
 title = 'HYURIi no homepage'
 theme = 'PaperMod'
 publishDir = "docs"
+defaultContentLanguage = 'ja'
+[languages]
+  [languages.ja]
+    languageCode = 'ja-JP'
+    languageDirection = 'ltr'
+    languageName = 'Japanese'
+    weight = 1
+
 [params]
   customCSS = ["css/custom.css"]
 [params.profileMode]
