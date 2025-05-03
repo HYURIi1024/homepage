@@ -4,12 +4,36 @@ title = 'HYURIi no homepage'
 theme = 'PaperMod'
 publishDir = "docs"
 defaultContentLanguage = 'ja'
+
 [languages]
   [languages.ja]
     languageCode = 'ja-JP'
     languageDirection = 'ltr'
     languageName = 'Japanese'
     weight = 1
+    
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Gallery"
+    url = "/gallery/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
 
 [params]
   customCSS = ["css/custom.css"]
