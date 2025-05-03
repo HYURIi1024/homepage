@@ -20,4 +20,7 @@ markup: "html"
       <a href="https://x.com/sakenikomi/status/1715010353300636054" target="_blank">
     <img src="https://pbs.twimg.com/media/F8zw03YacAA1XLE?format=jpg&name=large" alt="作品1">
   </a>
+    <a href="https://x.com/sakenikomi/status/1793925251992314249" target="_blank">
+    <img src="https://pbs.twimg.com/media/GOVNghCawAAP121?format=jpg&name=large" alt="作品1">
+  </a>
 </div>
