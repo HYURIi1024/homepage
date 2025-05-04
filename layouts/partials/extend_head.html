@@ -1,2 +1,6 @@
 <!-- Google Search Console 所有者確認 -->
 <meta name="google-site-verification" content="Jwsc5u0nxhh9gS_LhzisLkziTqB2OLpjYRHQx8eHVsw" />
+
+{{ if not .IsHome }}
+  <meta name="robots" content="noindex, nofollow">
+{{ end }}
