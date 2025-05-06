@@ -31,8 +31,8 @@ defaultContentLanguage = 'ja'
     weight = 3
 
   [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Links"
+    url = "/links/"
     weight = 4
 
 [params]
