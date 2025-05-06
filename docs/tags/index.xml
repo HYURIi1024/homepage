@@ -4,6 +4,11 @@
     <title>Tags on HYURIi no homepage</title>
     <link>http://localhost:1313/homepage/tags/</link>
     <description>Recent content in Tags on HYURIi no homepage</description>
+    <image>
+      <title>HYURIi no homepage</title>
+      <url>http://localhost:1313/homepage/images/caticon.png</url>
+      <link>http://localhost:1313/homepage/images/caticon.png</link>
+    </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
     <atom:link href="http://localhost:1313/homepage/tags/index.xml" rel="self" type="application/rss+xml" />

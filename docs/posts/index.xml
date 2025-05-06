@@ -4,6 +4,11 @@
     <title>Posts on HYURIi no homepage</title>
     <link>http://localhost:1313/homepage/posts/</link>
     <description>Recent content in Posts on HYURIi no homepage</description>
+    <image>
+      <title>HYURIi no homepage</title>
+      <url>http://localhost:1313/homepage/images/caticon.png</url>
+      <link>http://localhost:1313/homepage/images/caticon.png</link>
+    </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sat, 03 May 2025 02:22:07 +0100</lastBuildDate>

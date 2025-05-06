@@ -36,6 +36,10 @@ defaultContentLanguage = 'ja'
     weight = 4
 
 [params]
+  env = "production"  # これがあるとOGタグ出力されます
+  title = "HYURIiのホームページ"
+  description = "イラストとBlender練習中の記録"
+  images = ["images/caticon.png"]  # OGP画像（相対パス。static/images内に置く）
   customCSS = ["css/custom.css"]
 [params.profileMode]
   enabled = true
