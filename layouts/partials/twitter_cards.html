@@ -1,0 +1,7 @@
+<!-- 自作の twitter_cards.html（小さいサムネイル用） -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ .Description }}">
+{{ with .Params.images }}
+<meta name="twitter:image" content="{{ (index . 0) | absURL }}">
+{{ end }}
